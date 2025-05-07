@@ -1,0 +1,48 @@
+{
+    "PLAN": {
+        "DIRT": {
+            "id": 1,
+            "name": "Dirt",
+            "price": 0,
+            "resources": {
+                "cpu": 100,
+                "ram": 1024,
+                "disk": 10000,
+                "server": 2
+            }
+        },
+        "WOOD": {
+            "id": 2,
+            "name": "Wood",
+            "price": 250,
+            "resources": {
+                "cpu": 200,
+                "ram": 2048,
+                "disk": 20000,
+                "server": 3
+            }
+        },
+        "IRON": {
+            "id": 3,
+            "name": "Iron",
+            "price": 500,
+            "resources": {
+                "cpu": 400,
+                "ram": 4096,
+                "disk": 30000,
+                "server": 4
+            }
+        }
+    "GOLD": {
+            "id": 3,
+            "name": "Gold",
+            "price": 750,
+            "resources": {
+                "cpu": 500,
+                "ram": 8192,
+                "disk": 40000,
+                "server": 4
+             }
+         }
+    }
+}
