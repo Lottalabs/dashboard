@@ -31,17 +31,6 @@
                 "ram": 4096,
                 "disk": 30000,
                 "server": 4
-            }
-        }
-    "GOLD": {
-            "id": 3,
-            "name": "Gold",
-            "price": 750,
-            "resources": {
-                "cpu": 500,
-                "ram": 8192,
-                "disk": 40000,
-                "server": 4
              }
          }
     }
