@@ -26,7 +26,7 @@ Follow the steps below to set up and run the dashboard:
 
 2. Navigate into the project directory:
    ```bash
-   cd dashboard-v1.0.0
+   cd dashboard
    ```
 
 3. Install dependencies using Bun:
